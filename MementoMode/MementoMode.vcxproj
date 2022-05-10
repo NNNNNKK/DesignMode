@@ -152,9 +152,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MementoMode.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="MementoMode.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MementoMode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
