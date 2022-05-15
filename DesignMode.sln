@@ -40,6 +40,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CommandMode", "CommandMode\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChainofResponsibilityMode", "ChainofResponsibilityMode\ChainofResponsibilityMode.vcxproj", "{56EE8F0F-95D3-4BB6-BBCC-A7823091321E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MediatorMode", "MediatorMode\MediatorMode.vcxproj", "{F72A0BF6-FA20-4036-A13A-4A94E5687CEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -176,6 +178,14 @@ Global
 		{56EE8F0F-95D3-4BB6-BBCC-A7823091321E}.Release|x64.Build.0 = Release|x64
 		{56EE8F0F-95D3-4BB6-BBCC-A7823091321E}.Release|x86.ActiveCfg = Release|Win32
 		{56EE8F0F-95D3-4BB6-BBCC-A7823091321E}.Release|x86.Build.0 = Release|Win32
+		{F72A0BF6-FA20-4036-A13A-4A94E5687CEE}.Debug|x64.ActiveCfg = Debug|x64
+		{F72A0BF6-FA20-4036-A13A-4A94E5687CEE}.Debug|x64.Build.0 = Debug|x64
+		{F72A0BF6-FA20-4036-A13A-4A94E5687CEE}.Debug|x86.ActiveCfg = Debug|Win32
+		{F72A0BF6-FA20-4036-A13A-4A94E5687CEE}.Debug|x86.Build.0 = Debug|Win32
+		{F72A0BF6-FA20-4036-A13A-4A94E5687CEE}.Release|x64.ActiveCfg = Release|x64
+		{F72A0BF6-FA20-4036-A13A-4A94E5687CEE}.Release|x64.Build.0 = Release|x64
+		{F72A0BF6-FA20-4036-A13A-4A94E5687CEE}.Release|x86.ActiveCfg = Release|Win32
+		{F72A0BF6-FA20-4036-A13A-4A94E5687CEE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
