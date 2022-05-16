@@ -44,6 +44,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MediatorMode", "MediatorMod
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlyweightMode", "FlyweightMode\FlyweightMode.vcxproj", "{0CFCDBFE-C6F5-4DC7-9659-CEF151D4426B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InterpreterMode", "InterpreterMode\InterpreterMode.vcxproj", "{821E6998-5125-43DA-BC64-8D1E7EA90EBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -196,6 +198,14 @@ Global
 		{0CFCDBFE-C6F5-4DC7-9659-CEF151D4426B}.Release|x64.Build.0 = Release|x64
 		{0CFCDBFE-C6F5-4DC7-9659-CEF151D4426B}.Release|x86.ActiveCfg = Release|Win32
 		{0CFCDBFE-C6F5-4DC7-9659-CEF151D4426B}.Release|x86.Build.0 = Release|Win32
+		{821E6998-5125-43DA-BC64-8D1E7EA90EBC}.Debug|x64.ActiveCfg = Debug|x64
+		{821E6998-5125-43DA-BC64-8D1E7EA90EBC}.Debug|x64.Build.0 = Debug|x64
+		{821E6998-5125-43DA-BC64-8D1E7EA90EBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{821E6998-5125-43DA-BC64-8D1E7EA90EBC}.Debug|x86.Build.0 = Debug|Win32
+		{821E6998-5125-43DA-BC64-8D1E7EA90EBC}.Release|x64.ActiveCfg = Release|x64
+		{821E6998-5125-43DA-BC64-8D1E7EA90EBC}.Release|x64.Build.0 = Release|x64
+		{821E6998-5125-43DA-BC64-8D1E7EA90EBC}.Release|x86.ActiveCfg = Release|Win32
+		{821E6998-5125-43DA-BC64-8D1E7EA90EBC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
